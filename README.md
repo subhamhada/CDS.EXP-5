@@ -1,6 +1,6 @@
 # Experiment-5
 ## Aim -
-c++ programs for decision making statements
+C++ programs for decision making statements
 ## Theory -
 Decision-making statements control the flow of a program based on conditions. Key types include:
 ### 1. *If-Else Statement*:
@@ -172,4 +172,17 @@ int main()
 
 ## Output:-
 ### 1.
+![Screenshot 2024-08-01 233510](https://github.com/user-attachments/assets/759a1bbf-c527-4f1c-8eb8-37201c7cbff3)
+
+### 2.
+![Screenshot 2024-08-01 233730](https://github.com/user-attachments/assets/6b2360ff-c495-4c8b-b111-ec9af46d8c40)
+
+### 3.
+![Screenshot 2024-08-01 233814](https://github.com/user-attachments/assets/69ce62e3-b41e-48bf-a0e9-920d3b0a31cf)
+
+### 4.
+![Screenshot 2024-08-01 233854](https://github.com/user-attachments/assets/a41ab5bd-23df-4bd5-987c-d8a00ffae76a)
+
+## Conclusion:-
+
 
