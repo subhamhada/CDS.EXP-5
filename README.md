@@ -1,6 +1,6 @@
 # Experiment-5
 ## Aim -
-C++ programs for decision making statements
+To study and implement C++ decision making statements
 ## Theory -
 Decision-making statements control the flow of a program based on conditions. Key types include:
 ### 1. *If-Else Statement*:
