@@ -161,3 +161,7 @@ int main()
 }
 ```
 
+## Explanation:-
+we use if else statement for executing a block if it is true otherwise for false.
+nested if else are used when you need to check multiple conditions in a hierarchical manner.
+calculator statementis used for doing mathematical calculations among some given values.
