@@ -13,7 +13,7 @@ it is used for doing mathematical calculations among some given values.
 Used in some languages to handle multiple conditions, mimicked in Python using dictionaries.
 
 ## code -
-### 1.
+### 1. *If-Else*
 ```
 //subham
 //23070123132
@@ -35,7 +35,7 @@ int main()
 }
 ```
 
-### 2.
+### 2. *Nested if else*
 ```
 //subham
 //23070123132
@@ -65,7 +65,7 @@ int main()
 }
 ```
 
-### 3.
+### 3. *Calculator*
 ```
 //subham
 //23070123132
@@ -108,7 +108,7 @@ int main() {
 }
 ```
 
-### 4.
+### 4. *Switch case*
 ```
 //subham
 //23070123132
@@ -171,16 +171,16 @@ int main()
 *Switch Case Statement*: Used in some languages to handle multiple conditions, mimicked in Python using dictionaries.
 
 ## Output:-
-### 1.
+### 1. *If else*
 ![Screenshot 2024-08-01 233510](https://github.com/user-attachments/assets/759a1bbf-c527-4f1c-8eb8-37201c7cbff3)
 
-### 2.
+### 2. *Nested if else*
 ![Screenshot 2024-08-01 233730](https://github.com/user-attachments/assets/6b2360ff-c495-4c8b-b111-ec9af46d8c40)
 
-### 3.
+### 3. *Switch*
 ![Screenshot 2024-08-01 233814](https://github.com/user-attachments/assets/69ce62e3-b41e-48bf-a0e9-920d3b0a31cf)
 
-### 4.
+### 4. *Calculator*
 ![Screenshot 2024-08-01 233854](https://github.com/user-attachments/assets/a41ab5bd-23df-4bd5-987c-d8a00ffae76a)
 
 ## Conclusion:-
